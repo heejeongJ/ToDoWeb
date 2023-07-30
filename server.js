@@ -8,7 +8,7 @@ app.listen(8080, function(){        // listen(서버 띄울 포트번호, 띄운
 });
 
 
-
+// dir 주소로 연결
 app.get('/TodoList', function(req, res){
     //res.send('반갑습니다.');
     res.sendFile(__dirname + '/ToDoList.html')
