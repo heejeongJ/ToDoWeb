@@ -1,7 +1,7 @@
 ## 📑 ToDoWeb
 ToDoWeb with WebServer Dev<br>
-웹서버를 생성, <b>TODOWeb</b>을 개발하였습니다.
-&nbsp;
+웹서버를 생성, <b>TODOWeb</b>을 개발하였습니다.<br>
+🛠 proceeding now ...
 &nbsp;
 &nbsp;
 ## ✈ 페이지 별 주요 기능
